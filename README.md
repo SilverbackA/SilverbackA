@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...PBPK/PBBM modeling 
 - 🌱 I’m currently learning ...PK-sim and other softwares
 - 💞️ I’m looking to collaborate on ...Absorption modeling, DDI and mAB modeling
-- 📫 How to reach me ...send a mail to aravindrachapally@gmail.com
+- 📫 How to reach me ...send a mail to aravind1719.niper@gmail.com
 - 😄 Pronouns: ...Alpha male
 - ⚡ Fun fact: ...I'm not alpha
 
